@@ -7,9 +7,8 @@ def main():
 
     # Set page header
     st.title("CSV File Editor")
-
     # Allow user to upload a CSV file
-    uploaded_file = st.file_uploader("Upload a CSV file", type=["csv"])
+    uploaded_file = st.file_uploader("Upload a CSV file, made by (mostly chatgpt) Ali Cihan Isikal", type=["csv"])
     if uploaded_file is not None:
         # Load CSV data into a Pandas DataFrame
         data = pd.read_csv(uploaded_file)
