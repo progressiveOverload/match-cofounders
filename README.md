@@ -22,11 +22,11 @@ So let's explain how model works:
 
 
 Project pipeline includes:
-/nData gathering from LinkedIn and open sources.
-/nData preprocessing* (Adding founder's motivations and values to the dataset)
-/nVectorizing skills and experiences
-/nLooking to co-founder's cosine similarities
-/nRank them in order
+\nData gathering from LinkedIn and open sources.
+\nData preprocessing* (Adding founder's motivations and values to the dataset)
+\nVectorizing skills and experiences
+\nLooking to co-founder's cosine similarities
+\nRank them in order
 
 Possible Future Improvements:
 Testing the model (Includes labelling and formatting)
