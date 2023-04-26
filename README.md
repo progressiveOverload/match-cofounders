@@ -4,6 +4,9 @@ This project is an attempt to make a ML model that can match co-founders based o
 
 Unfortunately model gives co-founders with similar skills and experiences rather than complementary skills. We can say this model isn't working to reach our goals.
 
+
+Files are a mess but if you want to run this:
+
 You can try this model by running working_matcher_with_tester_4.py file with adding streamlit run then location of this folder.
 working_matcher works too but don't have test data.
 
