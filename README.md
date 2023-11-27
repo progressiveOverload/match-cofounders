@@ -1,4 +1,4 @@
-# pre_workout_with_data
+# Hic Sunt Dragones (Seriously, this project is a mess)
 
 This project is an attempt to make a ML model that can match co-founders based on their skills and experiences using cosine similarities and showing it on a web app using streamlit.
 
